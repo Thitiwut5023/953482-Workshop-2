@@ -9,3 +9,5 @@
     - Covert text to lowercase
 - Step 4 Emoticons, Stemming and Lemmatization
     - Final: Check readability score Flesch-Kincaid (report in class)
+
+dataset ``https://www.kaggle.com/datasets/atulanandjha/imdb-50k-movie-reviews-test-your-bert``
